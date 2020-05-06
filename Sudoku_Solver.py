@@ -73,7 +73,7 @@ def solve():
     # input('More?')
     print('')
 
-
+# Below are some matrix made for testing purposes so that we need not type in each time.
 mat = [[0, 0, 0, 2, 6, 0, 7, 0, 1],
        [6, 8, 0, 0, 7, 0, 0, 9, 0],
        [1, 9, 0, 0, 0, 4, 5, 0, 0],
